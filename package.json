@@ -1,0 +1,25 @@
+{
+  "name": "collector-express-api",
+  "version": "0.0.1",
+  "description": "express server for collector app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "Andrés Chamorro",
+  "license": "ISC",
+  "engines": {
+    "node": "8.11.3"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.3",
+    "bluebird": "^3.5.3",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose": "^5.4.8",
+    "token-extractor": "^0.1.6",
+    "utf8": "^3.0.0"
+  }
+}
