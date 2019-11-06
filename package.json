@@ -18,7 +18,7 @@
     "bluebird": "^3.5.3",
     "express": "^4.16.4",
     "jsonwebtoken": "^8.4.0",
-    "mongoose": "^5.4.8",
+    "mongoose": "^5.7.5",
     "token-extractor": "^0.1.6",
     "utf8": "^3.0.0"
   }
